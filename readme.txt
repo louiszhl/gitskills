@@ -7,7 +7,12 @@ Git tracks changes of files.
 213213213213
 <<<<<<< HEAD
 Creating a new branch is quick.
+<<<<<<< HEAD
 =======
 Creating a new branch is quick.
 dev dev
+>>>>>>> dev
+=======
+dev dev
+123456
 >>>>>>> dev
