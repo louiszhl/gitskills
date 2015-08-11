@@ -5,4 +5,9 @@ Louis
 git tracks changes.
 Git tracks changes of files.
 213213213213
+<<<<<<< HEAD
 Creating a new branch is quick.
+=======
+Creating a new branch is quick.
+dev dev
+>>>>>>> dev
